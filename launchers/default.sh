@@ -14,6 +14,7 @@ dt-launchfile-init
 
 # launching app
 dt-exec python3 -m "my_package.my_script"
+dt-exec python3 -m "my_package.add.py"
 
 
 # ----------------------------------------------------------------------------
